@@ -359,7 +359,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "STM32F103_Reference.kicad_pro",
+    "filename": "PCB.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -392,11 +392,7 @@
         "microvia_drill": 0.1,
         "name": "Power",
         "nets": [
-          "+3.3VA",
-          "+3V3",
-          "/VBUS",
-          "GND",
-          "VCC"
+          "GND"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
@@ -415,36 +411,7 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "Signal",
-        "nets": [
-          "/BOOT0",
-          "/CAN+",
-          "/CAN-",
-          "/HSE_IN",
-          "/HSE_OUT",
-          "/LED_STAT",
-          "/NRST",
-          "CANRX",
-          "CANTX",
-          "Net-(D1-Pad1)",
-          "Net-(D2-Pad1)",
-          "Net-(J2-PadA5)",
-          "Net-(J2-PadB5)",
-          "Net-(JP1-Pad2)",
-          "SWCLK",
-          "SWDIO",
-          "SWO",
-          "USB_D+",
-          "USB_D-",
-          "unconnected-(J2-PadA8)",
-          "unconnected-(J2-PadB8)",
-          "unconnected-(J2-PadS1)",
-          "unconnected-(J4-Pad3)",
-          "unconnected-(U1-Pad5)",
-          "unconnected-(U3-Pad25)",
-          "unconnected-(U3-Pad26)",
-          "unconnected-(U3-Pad27)",
-          "unconnected-(U3-Pad28)"
-        ],
+        "nets": [],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.15,
