@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 11328-T078
+D Flyback Transformer
+K
+F https://products.sumida.com/products/pdf/LT8316-PQ2620-Datasheet-ver.20190825.pdf?t=1568674920
+$ENDCMP
+#
+#End Doc Library

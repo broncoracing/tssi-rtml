@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "TC2030")(type "KiCad")(uri "${KIPRJMOD}/kicad-libraries/TC2030.kicad_sym")(options "")(descr ""))
+  (lib (name "power_symbols")(type "KiCad")(uri "${KIPRJMOD}/kicad-libraries/power_symbols.kicad_sym")(options "")(descr ""))
+  (lib (name "VRB1205YMD-6WR3")(type "KiCad")(uri "${KIPRJMOD}/kicad-libraries/VRB1205YMD-6WR3.kicad_sym")(options "")(descr ""))
+  (lib (name "LT8316IFE_PBF")(type "KiCad")(uri "${KIPRJMOD}/kicad-libraries/LT8316IFE_PBF.kicad_sym")(options "")(descr ""))
+  (lib (name "11328-T078")(type "KiCad")(uri "${KIPRJMOD}/kicad-libraries/11328-T078/11328-T078.kicad_sym")(options "")(descr ""))
+)
