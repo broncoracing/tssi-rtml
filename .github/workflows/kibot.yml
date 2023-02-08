@@ -8,13 +8,13 @@ on:
   workflow_dispatch:
   push:
     paths:
-    - "TSAL/*.kicad_sch"
+    - "TSAL/PCB.kicad_sch"
     - "TSAL/*.kicad_pcb"
     - "TSAL/*.kicad_pro"
     - "**/*kibot.yml"
   pull_request:
     paths:
-    - "TSAL/*.kicad_sch"
+    - "TSAL/PCB.kicad_sch"
     - "TSAL/*.kicad_pcb"
     - "TSAL/*.kicad_pro"
     - "**/*kibot.yml"
