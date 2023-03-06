@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DBT71205U
+D RELAY REED SPST-NC 5KV12V
+K
+F https://www.mouser.de/datasheet/2/657/cynergy3_db_ul_v3-1892211.pdf
+$ENDCMP
+#
+#End Doc Library
