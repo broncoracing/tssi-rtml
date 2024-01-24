@@ -7,4 +7,7 @@
   (lib (name "11328-T078")(type "KiCad")(uri "${KIPRJMOD}/kicad-libraries/11328-T078/11328-T078.kicad_sym")(options "")(descr ""))
   (lib (name "2023-11-19_21-55-29")(type "KiCad")(uri "${KIPRJMOD}/kicad-libraries/MP174AGJ_Z/KiCADv6/2023-11-19_21-55-29.kicad_sym")(options "")(descr ""))
   (lib (name "2023-11-19_21-51-37")(type "KiCad")(uri "${KIPRJMOD}/kicad-libraries/UCC12040DVE/KiCADv6/2023-11-19_21-51-37.kicad_sym")(options "")(descr ""))
+  (lib (name "2023-12-17_23-19-26")(type "KiCad")(uri "${KIPRJMOD}/kicad-libraries/ULR2H3R9MNL1GS/KiCADv6/2023-12-17_23-19-26.kicad_sym")(options "")(descr ""))
+  (lib (name "2023-12-18_00-54-35")(type "KiCad")(uri "${KIPRJMOD}/kicad-libraries/AES2JF_HF/KiCADv6/2023-12-18_00-54-35.kicad_sym")(options "")(descr ""))
+  (lib (name "2024-01-08_19-44-57")(type "KiCad")(uri "${KIPRJMOD}/kicad-libraries/IRLZ44NSTRLPBF/KiCADv6/2024-01-08_19-44-57.kicad_sym")(options "")(descr ""))
 )
