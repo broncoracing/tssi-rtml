@@ -46,7 +46,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.0
+          "min_clearance": 0.75
         }
       },
       "diff_pair_dimensions": [
@@ -57,7 +57,7 @@
         }
       ],
       "drc_exclusions": [
-        "clearance|117600000|111700000|7e0c4f56-561d-4128-9bdc-5be5bcbbd4a4|084bc45a-cc26-44ff-9f9d-0eb8d4d365bb"
+        "clearance|116850000|99200000|3cd2d410-68e8-443f-b7d7-cac7c23b4d01|a8522070-8ef2-45c1-956c-cd59f1f58d5c"
       ],
       "meta": {
         "version": 2
@@ -213,7 +213,10 @@
     "erc_exclusions": [
       "pin_to_pin|2324100|292100|c1e642de-79e3-45cb-b248-78e87cd753d3|3fecec92-edea-48c5-bfbf-cf915dd556ad|/68f34db6-b185-48e2-8817-fb07f7d1240e|/68f34db6-b185-48e2-8817-fb07f7d1240e|/68f34db6-b185-48e2-8817-fb07f7d1240e",
       "pin_to_pin|2324100|292100|c1e642de-79e3-45cb-b248-78e87cd753d3|6c140275-9421-4fee-b450-9266135b7325|/68f34db6-b185-48e2-8817-fb07f7d1240e|/68f34db6-b185-48e2-8817-fb07f7d1240e|/68f34db6-b185-48e2-8817-fb07f7d1240e",
-      "pin_to_pin|2324100|444500|6c140275-9421-4fee-b450-9266135b7325|3fecec92-edea-48c5-bfbf-cf915dd556ad|/68f34db6-b185-48e2-8817-fb07f7d1240e|/68f34db6-b185-48e2-8817-fb07f7d1240e|/68f34db6-b185-48e2-8817-fb07f7d1240e"
+      "pin_to_pin|2324100|444500|6c140275-9421-4fee-b450-9266135b7325|3fecec92-edea-48c5-bfbf-cf915dd556ad|/68f34db6-b185-48e2-8817-fb07f7d1240e|/68f34db6-b185-48e2-8817-fb07f7d1240e|/68f34db6-b185-48e2-8817-fb07f7d1240e",
+      "pin_to_pin|2959100|533400|3fecec92-edea-48c5-bfbf-cf915dd556ad|6c140275-9421-4fee-b450-9266135b7325|/68f34db6-b185-48e2-8817-fb07f7d1240e|/68f34db6-b185-48e2-8817-fb07f7d1240e|/68f34db6-b185-48e2-8817-fb07f7d1240e",
+      "pin_to_pin|2959100|533400|3fecec92-edea-48c5-bfbf-cf915dd556ad|c1e642de-79e3-45cb-b248-78e87cd753d3|/68f34db6-b185-48e2-8817-fb07f7d1240e|/68f34db6-b185-48e2-8817-fb07f7d1240e|/68f34db6-b185-48e2-8817-fb07f7d1240e",
+      "pin_to_pin|2959100|558800|c1e642de-79e3-45cb-b248-78e87cd753d3|6c140275-9421-4fee-b450-9266135b7325|/68f34db6-b185-48e2-8817-fb07f7d1240e|/68f34db6-b185-48e2-8817-fb07f7d1240e|/68f34db6-b185-48e2-8817-fb07f7d1240e"
     ],
     "meta": {
       "version": 0
