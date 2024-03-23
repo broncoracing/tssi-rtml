@@ -3879,7 +3879,7 @@
     (property "Value" "1N4148WS" (at 152.4 44.45 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-123" (at 151.13 46.99 0)
+    (property "Footprint" "Diode_SMD:D_SOD-323" (at 151.13 46.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 151.13 46.99 0)
