@@ -1,0 +1,24 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "c74b51e8-6534-485d-939e-e39fe1481985")
+	(paper "A4")
+	(lib_symbols)
+	(no_connect
+		(at 87.63 66.04)
+		(uuid "3062987b-7aac-4f86-98cd-5bf648685c21")
+	)
+	(hierarchical_label "BMS Fault Out"
+		(shape output)
+		(at 87.63 66.04 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7f0d7c47-0429-4cfe-b587-3785b6e6cb6c")
+	)
+)

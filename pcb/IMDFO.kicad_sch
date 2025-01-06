@@ -1,0 +1,24 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "83e6f496-211f-41ad-8892-5f2b39d045da")
+	(paper "A4")
+	(lib_symbols)
+	(no_connect
+		(at 86.36 62.23)
+		(uuid "8c8af44f-4f55-4f6c-9059-54e405aef613")
+	)
+	(hierarchical_label "IMD Fault Out"
+		(shape output)
+		(at 86.36 62.23 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "328ead96-7a26-46f8-9d79-643a6639be3a")
+	)
+)
